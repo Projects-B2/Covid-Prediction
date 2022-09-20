@@ -1,7 +1,7 @@
 
 # Covid Cases Prediction
 
-Using Mathematical Models to predict active and total COVID cases.
+Using Mathematical Models to predict Total and Confirmed COVID cases.
 * [Models](https://github.com/shivanshu1641/Covid-Prediction#models-used)
     *  [Logistic Model](https://github.com/shivanshu1641/Covid-Prediction#logistic-model)
     * [Gompertz Model](https://github.com/shivanshu1641/Covid-Prediction#gompertz-model)
