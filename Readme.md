@@ -14,6 +14,7 @@ Using Mathematical Models to predict active and total COVID cases.
 
 ### Logistic Model
 ![](https://github.com/shivanshu1641/Covid-Prediction/blob/main/Figures/LogisticEqn.PNG?raw=true)
+#####
 where  
 * y(t) is the total number of cases reported, after t days 
 * a  is the upper limit of the reported cases   
@@ -22,6 +23,7 @@ where
 
 ### Gompertz Model
 ![](https://github.com/shivanshu1641/Covid-Prediction/blob/main/Figures/Gompertz%20Eqn.PNG?raw=true)
+#####
 where  
 * y(t) is the total number of cases reported, after t days 
 * a  is the upper limit of the reported cases   
@@ -30,6 +32,7 @@ where
 
 ### Bertalanffy Model
 ![](https://github.com/shivanshu1641/Covid-Prediction/blob/main/Figures/BertalanffyEqn.PNG?raw=true)
+#####
 where  
 * y(t) is the total number of cases reported, after t days 
 * a  is the upper limit of the reported cases   
@@ -39,4 +42,4 @@ where
 ### Total Cases
 ![](https://github.com/shivanshu1641/Covid-Prediction/blob/main/Figures/ActiveCasesRes.PNG?raw=true)
 ### Confirmed Cases
-![](https://github.com/shivanshu1641/Covid-Prediction/blob/main/Figures/ConfirmedCasesRes.png?raw=true)
+![](https://github.com/shivanshu1641/Covid-Prediction/blob/main/Figures/ConfirmedCasesResImg.png?raw=true)
